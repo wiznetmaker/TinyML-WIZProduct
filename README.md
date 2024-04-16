@@ -7,8 +7,6 @@
 This project covers how to improve the performance difference between high-cost sensors and low-cost sensors using neural networks. The authors note that the humidity measured by the company's low-cost sensors differed significantly from higher-cost sensors. To solve this, the authors present a method to improve the performance of low-cost sensors by training a neural network model based on data collected using multiple low-cost sensors. As a result of the experiment, the neural network succeeded in predicting data from low-cost sensors similar to data from high-cost sensors, which is meaningful in that it suggests a way to maintain accuracy while reducing sensor costs. Additionally, the process of using TinyML for efficient data management and model quantization is described.
 
 
-
-
 ## 🪢Summary
 - Low-sensitivity sensor data processing: Processes data collected from low-power and low-sensitivity environmental sensors.
 - TinyML model implementation: Implements a lightweight machine learning model to predict temperature and humidity data.
@@ -16,13 +14,8 @@ This project covers how to improve the performance difference between high-cost 
 
 
 
-
-
 ## 📈FlowChart
 ![image](https://github.com/WzAcorn/TinyML-HygroPredict/assets/77008882/280a5b1c-7db5-4781-9c67-7eb634ab9a7c)
-
-
-
 
 
 ## 🔗 Link
@@ -39,11 +32,11 @@ This project covers how to improve the performance difference between high-cost 
 This post discusses a system for speech recognition. It covers the principles of speech recognition, including the Fourier Transform and STFT (Short Time Fourier Transform). It provides code examples for collecting and preprocessing speech data using Arduino and Python, training a model, and converting it using TensorFlow Lite. The system architecture and operation are explained in detail, along with the implementation steps using Arduino and Python code.
 
 ## 🪢Summary
-This blog post covers the process of developing a voice recognition system using Arduino and Python with WIZnet W5500-EVB-Pico hardware. 
-The process from preprocessing of speech data through Fourier transform and STFT to model training and conversion to TensorFlow Lite is explained. 
-A method to utilize the model trained through Arduino for voice recognition in real time is presented.
+ - The process of developing a voice recognition system using Arduino and Python with WIZnet W5500-EVB-Pico hardware. 
+ - The process from preprocessing of speech data through Fourier transform and STFT to model training and conversion to TensorFlow Lite is explained. 
+ - A method to utilize the model trained through Arduino for voice recognition in real time is presented.
 
 ## 🔗 Link
-[WiznetMaker](https://maker.wiznet.io/Acorn_/projects/tinyml%2Dwakeword%2Ddetection/?serob=rd&serterm=month)
+ - [WiznetMaker](https://maker.wiznet.io/Acorn_/projects/tinyml%2Dwakeword%2Ddetection/?serob=rd&serterm=month)
 
 
