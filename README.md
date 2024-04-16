@@ -32,10 +32,18 @@ This project covers how to improve the performance difference between high-cost 
 
 
 
+# 📌TinyML-Wakeword Detection
 
+![image](https://github.com/wiznetmaker/TinyML-WIZProduct/assets/77008882/74ca1313-b877-4678-804b-25a62843c05f)
 
+This post discusses a system for speech recognition. It covers the principles of speech recognition, including the Fourier Transform and STFT (Short Time Fourier Transform). It provides code examples for collecting and preprocessing speech data using Arduino and Python, training a model, and converting it using TensorFlow Lite. The system architecture and operation are explained in detail, along with the implementation steps using Arduino and Python code.
 
+## 🪢Summary
+This blog post covers the process of developing a voice recognition system using Arduino and Python with WIZnet W5500-EVB-Pico hardware. 
+The process from preprocessing of speech data through Fourier transform and STFT to model training and conversion to TensorFlow Lite is explained. 
+A method to utilize the model trained through Arduino for voice recognition in real time is presented.
 
-
+## 🔗 Link
+[WiznetMaker](https://maker.wiznet.io/Acorn_/projects/tinyml%2Dwakeword%2Ddetection/?serob=rd&serterm=month)
 
 
