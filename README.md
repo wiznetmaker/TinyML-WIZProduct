@@ -38,5 +38,6 @@ This post discusses a system for speech recognition. It covers the principles of
 
 ## 🔗 Link
  - [WiznetMaker](https://maker.wiznet.io/Acorn_/projects/tinyml%2Dwakeword%2Ddetection/?serob=rd&serterm=month)
+ - [youtube](https://www.youtube.com/shorts/CfJKs5EapFk)
 
 
